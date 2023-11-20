@@ -1,15 +1,15 @@
 
 //
-// StyleDictionary+Enum.swift
+// StyleDictionary+Class.swift
 //
 
 // Do not edit directly
-// Generated on Mon, 20 Nov 2023 14:33:24 GMT
+// Generated on Mon, 20 Nov 2023 16:41:35 GMT
 
 
 import UIKit
 
-public enum StyleDictionaryEnum {
+public class StyleDictionaryClass {
     public static let colorBaseGrayDark = UIColor(red: 0.067, green: 0.067, blue: 0.067, alpha: 1)
     public static let colorBaseGrayLight = UIColor(red: 0.800, green: 0.800, blue: 0.800, alpha: 1)
     public static let colorBaseGrayMedium = UIColor(red: 0.600, green: 0.600, blue: 0.600, alpha: 1)
