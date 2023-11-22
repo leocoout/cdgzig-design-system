@@ -12,5 +12,8 @@
   "license": "ISC",
   "dependencies": {
     "style-dictionary": "^3.9.0"
+  },
+  "devDependencies": {
+    "token-transformer": "^0.0.33"
   }
 }

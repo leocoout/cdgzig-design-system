@@ -2,16 +2,38 @@
 
 <!--
   Do not edit directly
-  Generated on Mon, 20 Nov 2023 16:41:35 GMT
+  Generated on Wed, 22 Nov 2023 15:34:24 GMT
 -->
 <resources>
-  <color name="color_base_gray_light">#ffcccccc</color>
-  <color name="color_base_gray_medium">#ff999999</color>
-  <color name="color_base_gray_dark">#ff111111</color>
-  <color name="color_base_red">#ffff0000</color>
-  <color name="color_base_green">#ff00ff00</color>
-  <color name="color_font_base">#ffff0000</color>
-  <color name="color_font_secondary">#ff00ff00</color>
-  <color name="color_font_tertiary">#ffcccccc</color>
+  <color name="color_background_base">#ffffffff</color>
+  <color name="color_background_layer1">#fff7f8f9</color>
+  <color name="color_blue_shades10">#ffe6ecf7</color>
+  <color name="color_blue_shades20">#ffccd9ef</color>
+  <color name="color_blue_shades40">#ff99b3df</color>
+  <color name="color_blue_shades60">#ff678ecf</color>
+  <color name="color_blue_shades80">#ff3468bf</color>
+  <color name="color_blue_shade100">#ff0142af</color>
+  <color name="color_blue_shades120">#ff012158</color>
+  <color name="color_grey_shades0">#ffffffff</color>
+  <color name="color_grey_shades10">#fff7f8f9</color>
+  <color name="color_grey_shades20">#ffe6e6e6</color>
+  <color name="color_grey_shades40">#ffb4b4b4</color>
+  <color name="color_grey_shades60">#ff757575</color>
+  <color name="color_grey_shades80">#ff3e3e3e</color>
+  <color name="color_grey_shades100">#ff212121</color>
+  <color name="color_secondary_red50">#ffc44041</color>
+  <color name="color_secondary_red90">#fffce7e7</color>
+  <color name="color_secondary_green50">#ff4f9d43</color>
+  <color name="color_secondary_green90">#ffe2f1df</color>
+  <color name="color_secondary_yellow50">#ffffd14d</color>
+  <color name="color_secondary_yellow90">#fffff4d1</color>
+  <color name="color_secondary_orange50">#ffe57034</color>
+  <color name="color_secondary_orange90">#fffceee7</color>
+  <color name="color_secondary_link_blue50">#ff0094d9</color>
+  <color name="color_secondary_link_blue90">#ffe3f6fd</color>
+  <color name="color_secondary_neutral50">#ff424d57</color>
+  <color name="color_secondary_neutral90">#ffe2e5e9</color>
+  <color name="color_overlay_shades80">#73212121</color>
+  <color name="color_stroke">#ffe2e5e9</color>
   
 </resources>
