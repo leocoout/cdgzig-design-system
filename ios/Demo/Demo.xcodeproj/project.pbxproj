@@ -13,7 +13,6 @@
 		8C7D858E27753C5700F001EE /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 8C7D858C27753C5700F001EE /* Main.storyboard */; };
 		8C7D859027753C5A00F001EE /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 8C7D858F27753C5A00F001EE /* Assets.xcassets */; };
 		8C7D859327753C5A00F001EE /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 8C7D859127753C5A00F001EE /* LaunchScreen.storyboard */; };
-		8C7D859C27753CD800F001EE /* FancyGradient in Frameworks */ = {isa = PBXBuildFile; productRef = 8C7D859B27753CD800F001EE /* FancyGradient */; };
 		8C7D859E27753DE200F001EE /* UIView+Extensions.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8C7D859D27753DE200F001EE /* UIView+Extensions.swift */; };
 /* End PBXBuildFile section */
 
@@ -34,7 +33,6 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				8C7D859C27753CD800F001EE /* FancyGradient in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -97,7 +95,6 @@
 			);
 			name = Demo;
 			packageProductDependencies = (
-				8C7D859B27753CD800F001EE /* FancyGradient */,
 			);
 			productName = Demo;
 			productReference = 8C7D858327753C5700F001EE /* Demo.app */;
@@ -379,13 +376,6 @@
 			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
-
-/* Begin XCSwiftPackageProductDependency section */
-		8C7D859B27753CD800F001EE /* FancyGradient */ = {
-			isa = XCSwiftPackageProductDependency;
-			productName = FancyGradient;
-		};
-/* End XCSwiftPackageProductDependency section */
 	};
 	rootObject = 8C7D857B27753C5700F001EE /* Project object */;
 }
